@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+Ghada Abdo + 1002306740 + BIOL5340-001
